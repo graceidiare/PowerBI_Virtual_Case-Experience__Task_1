@@ -56,5 +56,5 @@ The calls by time chart shows specific times of the day and the amount of calls 
 
 Interacting with the dashboard using the slicer shows specifically the average handle time per agent.   
 
-![](PhoneNow-forage1_page-0001 (1).jpg)
+![](PhoneNow-forage1_page-0001.jpg)
 
