@@ -44,11 +44,17 @@ The average speed of answer is 67.52 seconds approximately 1 minute. It is shown
 
 Most customers’ satisfaction rating were mostly on the scale of 3 and 4.  
 
+![](overallcustomersatisfaction.png)
+
 Calls related to streaming were mostly answered and it also has the least abandoned calls. Agents should be trained more on answering calls relating to technical support has it has the highest number of abandoned calls.  
 
 Out of the eight (8) agents working at the Call Centre, Jim, Dan and Becky top the chart of resolved calls. However, every other agent has worked well as the difference is not glaring.  
 
+![](calls-by-agent.png)
+
 The calls by time chart shows specific times of the day and the amount of calls that were received at the time. 1pm is the busiest hour in the day with 594 calls coming in that hour alone between January and March 2021.  
 
-Interacting with the dashboard using the slicer shows specifically the average handle time per agent.  
+Interacting with the dashboard using the slicer shows specifically the average handle time per agent.   
+
+![](PhoneNow-forage1_page-0001 (1).jpg)
 
