@@ -21,7 +21,7 @@ The columns were _Call Id, Agent, Date, Time, Topic, Answered, Resolved, Speed o
 All the columns initially had text data types, I only had to change _the date, time, Speed of answer (in seconds) and AvgTalkDuration_ columns to their most appropriate data type which were date, time, whole number and time respectively.  
 Also, I replaced *Y* and *N* in both the Resolved and Answered columns to *Yes* and *No* respectively.
 
-## Analysis and Visualizaton  
+## Analysis and Visualizatons  
 
 First, I had to define the KPIs that could give an overview on both the agents' and customers' behavior as requested. Such as;  
 
