@@ -10,7 +10,9 @@ PwC’s client is a big telecom company, PhoneNow. In this first task, I worked 
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.  
 
-_The dataset contains 10 columns and 5000 rows. It contains calls that PhoneNow had received from January 1st 2021 to March 31st 2021._  
+_The dataset contains 10 columns and 5000 rows. It contains calls that PhoneNow had received from January 1st 2021 to March 31st 2021._   
+
+![](table-overview.png)
 
 ## Data Cleaning/Transformation  
 
@@ -30,11 +32,15 @@ First, I had to define the KPIs that could give an overview on both the agents' 
 •	Calls by time  
 
 
-To get the overall calls answered and calls abandoned, I created two measures that filtered for when calls were answered represented Yes and when they were abandoned represented as No in the Answered column.  
+To get the overall calls answered and calls abandoned, I created two measures that filtered for when calls were answered represented as *Yes* and when they were abandoned represented as *No* in the Answered column.  
+
+![](answered-and-abandoned-calls.png)
 
 There were 4,054 answered calls and 946 abandoned calls. Why these calls were abandoned should be looked into.  
 
 The average speed of answer is 67.52 seconds approximately 1 minute. It is shown that the average handle time for all the agents was 3 minutes and 45 seconds.  
+
+![](the-averages.png)
 
 Most customers’ satisfaction rating were mostly on the scale of 3 and 4.  
 
