@@ -38,23 +38,25 @@ To get the overall calls answered and calls abandoned, I created two measures th
 
 There were 4,054 answered calls and 946 abandoned calls. Why these calls were abandoned should be looked into.  
 
-The average speed of answer is 67.52 seconds approximately 1 minute. It is shown that the average handle time for all the agents was 3 minutes and 45 seconds.  
+The average speed of answer was 67.52 seconds approximately 1 minute, I'll have to say that's not bad because one too many customer service reps take more time from my experience.   
+It is shown that the average handle time for all the agents was 3 minutes and 45 seconds. This means it takes most issues are resolved in less than 4 minutes, talk about record time! 
 
 ![](the-averages.png)
 
 Most customers’ satisfaction rating were mostly on the scale of 3 and 4.  
 
-![](overallcustomersatisfaction.png)
-
-Calls related to streaming were mostly answered and it also has the least abandoned calls. Agents should be trained more on answering calls relating to technical support has it has the highest number of abandoned calls.  
+![](overallcustomersatisfaction.png)   
 
 Out of the eight (8) agents working at the Call Centre, Jim, Dan and Becky top the chart of resolved calls. However, every other agent has worked well as the difference is not glaring.  
 
 ![](calls-by-agent.png)
 
-The calls by time chart shows specific times of the day and the amount of calls that were received at the time. 1pm is the busiest hour in the day with 594 calls coming in that hour alone between January and March 2021.  
+The calls by time chart shows specific times of the day and the amount of calls that were received at the time. 1pm is the busiest hour in the day with 594 calls coming in that hour alone between January and March 2021.   
 
-Interacting with the [dashboard](https://app.powerbi.com/groups/me/reports/91001ddb-a2b0-4183-a437-1a05ea6e9062/ReportSection) using the slicer shows specifically the average handle time per agent.   
+
+Calls related to streaming were mostly answered and it also has the least abandoned calls. Agents should be trained more on answering calls relating to technical support has it has the highest number of abandoned calls.    
+
+Interacting with the [dashboard](https://app.powerbi.com/groups/me/reports/91001ddb-a2b0-4183-a437-1a05ea6e9062/ReportSection) using the slicers shows more specific metrics like the average handle time per agent, satisfaction rating, calls by time per agent etc.   
 
 ![](PhoneNow-forage1_page-0001.jpg)
 
