@@ -56,7 +56,7 @@ The calls by time chart shows specific times of the day and the amount of calls 
 
 Calls related to streaming were mostly answered and it also has the least abandoned calls. Agents should be trained more on answering calls relating to technical support has it has the highest number of abandoned calls.    
 
-Interacting with the [dashboard](https://app.powerbi.com/groups/me/reports/91001ddb-a2b0-4183-a437-1a05ea6e9062/ReportSection) using the slicers shows more specific metrics like the average handle time per agent, satisfaction rating, calls by time per agent etc.   
+Interacting with the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjlmMjE3YmQtYmNhMy00NGFmLWE0ZjktYjZlOTgxZDBmMWEyIiwidCI6ImIzY2I2YjJhLTU4MTYtNDczYi04MjcxLWU1MjU5OWNiZjY2ZSJ9) using the slicers shows more specific metrics like the average handle time per agent, satisfaction rating, calls by time per agent etc.   
 
 ![](PhoneNow-forage1_page-0001.jpg)
 
