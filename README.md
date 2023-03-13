@@ -58,5 +58,5 @@ Calls related to streaming were mostly answered and it also has the least abando
 
 Interacting with the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjlmMjE3YmQtYmNhMy00NGFmLWE0ZjktYjZlOTgxZDBmMWEyIiwidCI6ImIzY2I2YjJhLTU4MTYtNDczYi04MjcxLWU1MjU5OWNiZjY2ZSJ9) using the slicers shows more specific metrics like the average handle time per agent, satisfaction rating, calls by time per agent etc.   
 
-![](PhoneNow-forage1_page-0001.jpg)
+![](PhoneNow-forage1_page-0001.jpg) 
 
