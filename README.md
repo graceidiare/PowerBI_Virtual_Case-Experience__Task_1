@@ -54,7 +54,7 @@ Out of the eight (8) agents working at the Call Centre, Jim, Dan and Becky top t
 
 The calls by time chart shows specific times of the day and the amount of calls that were received at the time. 1pm is the busiest hour in the day with 594 calls coming in that hour alone between January and March 2021.  
 
-Interacting with the dashboard using the slicer shows specifically the average handle time per agent.   
+Interacting with the [dashboard](https://app.powerbi.com/groups/me/reports/91001ddb-a2b0-4183-a437-1a05ea6e9062/ReportSection) using the slicer shows specifically the average handle time per agent.   
 
 ![](PhoneNow-forage1_page-0001.jpg)
 
